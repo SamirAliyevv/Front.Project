@@ -70,4 +70,16 @@ ul>li {
     font-family: sans-serif;
     font-size: 19px;
 }
-
+.formregister{ 
+    position: relative;
+    bottom: 42rem;
+    height: 300px;
+    width: 32%;
+    left: 60rem;
+    background-color: #ffffff;
+  
+}
+.form{
+    padding-left: 20px;
+    padding-top: 20px;
+}
