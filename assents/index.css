@@ -112,16 +112,17 @@ ul>li {
 #fname{
     border-radius: 7px;
     height: 40px;
-    width:15rem; 
+    width:50%; 
     border-color: rgb(158, 157, 157);
+    padding-left: 5rem;
 }
 #lname{
     
     border-radius: 7px;
     height: 40px;
-    width:15rem;
+    width:50%;
     position: relative;
-     left: 20rem;
+     left: 15rem;
      bottom: 2.5rem;
      border-color: rgb(158, 157, 157);
 }
@@ -133,10 +134,10 @@ ul>li {
 #email{
     border-radius: 7px;
     height: 40px;
-    width:36rem;
+    width:50%;
        position: relative;
        right: 21rem;
-       top: 5px;
+       bottom: 15px;
        right: 0.2rem;
        border-color: rgb(158, 157, 157);
   
@@ -144,7 +145,7 @@ ul>li {
 .emailplace{
     position: relative;
     right: 15rem;
-    top: 0.6rem;
+    bottom: 0.5rem;
 
 
 }
@@ -152,7 +153,7 @@ ul>li {
     position: relative;
     top: 1.5rem;
     height: 40px;
-    width:36rem;
+    width:75%;
        border-radius: 7px;
        right: 0.2rem;
        border-color: rgb(158, 157, 157);
@@ -161,7 +162,8 @@ ul>li {
 }
 .companyplace{
     position: relative;
-    top: 1rem;
+    top: 2rem;
+    right: 15rem;
 }
 .submit{
     position: relative;
@@ -221,3 +223,37 @@ ul>li {
     margin-top: 16rem;
     margin-left: 17rem;
 }
+i{
+   font-size: 60px;
+   padding-top: 40px;
+   padding-left: 40px;
+   color: rgb(226, 165, 218) ;
+}
+.pcultivate{
+    margin-top: 12px;
+    padding-left: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 700px;
+}
+.footcultivate{
+     width: 100%;
+     padding-left: 5px;
+     padding-top: 5px;
+     font-family: sans-serif;
+     color: #a2a2a2;
+    
+
+}
+.fa-solid {
+    color: green;
+}
+.sale{
+    width:35%;
+    height: 250px;
+    background-color: #ffffff;
+    position: relative;
+     bottom: 15.5rem;
+    left: 60rem;
+}
+
