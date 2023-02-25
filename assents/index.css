@@ -173,3 +173,10 @@ ul>li {
     background-color: rgb(9, 78, 175);
     border-radius: 7px;
 }
+.logo{
+      width: 75%;
+      height: 210px;
+       padding-left: 33rem;
+        position: relative;
+        bottom: 22rem;    
+}
