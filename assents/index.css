@@ -109,65 +109,73 @@ ul>li {
     font-size: 19px;
     color: rgb(46, 118, 220);
 }
-#fname{
+
+#fname {
     border-radius: 7px;
     height: 40px;
-    width:50%; 
+    width: 45%;
     border-color: rgb(158, 157, 157);
     padding-left: 5rem;
 }
-#lname{
-    
+
+#lname {
+
     border-radius: 7px;
     height: 40px;
-    width:50%;
+    width: 45%;
     position: relative;
-     left: 15rem;
-     bottom: 2.5rem;
-     border-color: rgb(158, 157, 157);
+    left: 18rem;
+    bottom: 2.5rem;
+    border-color: rgb(158, 157, 157);
 }
-.lnameplace{
+
+.lnameplace {
     position: relative;
     bottom: 1.8rem;
-    left: 80px;
+    left: 1.3rem;
 }
-#email{
+
+#email {
     border-radius: 7px;
     height: 40px;
-    width:50%;
-       position: relative;
-       right: 21rem;
-       bottom: 15px;
-       right: 0.2rem;
-       border-color: rgb(158, 157, 157);
-  
+    width: 70%;
+    position: relative;
+    right: 21rem;
+    bottom: 15px;
+    right: 0.2rem;
+    border-color: rgb(158, 157, 157);
+
 }
-.emailplace{
+
+.emailplace {
     position: relative;
     right: 15rem;
     bottom: 0.5rem;
 
 
 }
-.inputtextplace{
+
+.inputtextplace {
     position: relative;
     top: 1.5rem;
     height: 40px;
-    width:75%;
-       border-radius: 7px;
-       right: 0.2rem;
-       border-color: rgb(158, 157, 157);
-  
-    
+    width: 75%;
+    border-radius: 7px;
+    right: 0.2rem;
+    border-color: rgb(158, 157, 157);
+
+
 }
-.companyplace{
+
+.companyplace {
     position: relative;
     top: 2rem;
     right: 15rem;
 }
-.submit{
+
+.submit {
     position: relative;
-    top:2rem;
+    top: 2rem;
     width: 100%;
     right: 0.5rem;
     height: 40px;
@@ -175,20 +183,24 @@ ul>li {
     background-color: rgb(9, 78, 175);
     border-radius: 7px;
 }
-.logo{
-      width: 75%;
-      height: 210px;
-       padding-left: 33rem;
-        position: relative;
-        bottom: 22rem;    
+
+.logo {
+    width: 75%;
+    height: 210px;
+    padding-left: 33rem;
+    position: relative;
+    bottom: 22rem;
 }
-.services{
-    background-color: #f1e0e3;;
+
+.services {
+    background-color: #f1e0e3;
+    ;
     width: 100%;
-    height: 800px;
+    height: 55rem;
 }
-.marketing{
-    width: 87px;
+
+.marketing {
+    width: 5%;
     height: 20px;
     background-color: rgb(226, 165, 218);
     border-radius: 10px;
@@ -198,62 +210,143 @@ ul>li {
 
 
 }
-.marketingtext{
+
+.marketingtext {
     padding-left: 7px;
 }
-.pmarketing{
-    width: 400%;
-        font-family: sans-serif;
-        font-weight: 900px;
-        word-spacing: 3px;
-        font-size: 25px;
-} 
 
-.pmarketing2{
+.pmarketing {
+    width: 400%;
+    font-family: sans-serif;
+    font-weight: 900px;
+    word-spacing: 3px;
+    font-size: 25px;
+}
+
+.pmarketing2 {
     width: 600%;
     font-family: sans-serif;
-     font-size:20px;
-     color: #a2a2a2;
+    font-size: 20px;
+    color: #a2a2a2;
 
 }
-.cultivate{
-    width:35%;
+
+.cultivate {
+    width: 35%;
     height: 250px;
     background-color: #ffffff;
     margin-top: 16rem;
     margin-left: 17rem;
 }
-i{
-   font-size: 60px;
-   padding-top: 40px;
-   padding-left: 40px;
-   color: rgb(226, 165, 218) ;
+
+i {
+    font-size: 60px;
+    padding-top: 40px;
+    padding-left: 40px;
+    color: rgb(226, 165, 218);
 }
-.pcultivate{
+
+.pcultivate {
     margin-top: 12px;
     padding-left: 10px;
     font-size: 20px;
     font-family: sans-serif;
     font-weight: 700px;
 }
-.footcultivate{
-     width: 100%;
-     padding-left: 5px;
-     padding-top: 5px;
-     font-family: sans-serif;
-     color: #a2a2a2;
-    
+
+.footcultivate {
+    width: 100%;
+    padding-left: 5px;
+    padding-top: 5px;
+    font-family: sans-serif;
+    color: #a2a2a2;
+
 
 }
+
 .fa-solid {
     color: green;
 }
-.sale{
-    width:35%;
+
+.sale {
+    width: 35%;
     height: 250px;
     background-color: #ffffff;
     position: relative;
-     bottom: 15.5rem;
+    bottom: 15.5rem;
     left: 60rem;
+}
+
+.psale {
+    margin-top: 12px;
+    padding-left: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 700px;
+}
+
+.footsale {
+    width: 100%;
+    padding-left: 5px;
+    padding-top: 5px;
+    font-family: sans-serif;
+    color: #a2a2a2;
+
+
+}
+
+#iconwrench {
+    color: rgb(31, 107, 222);
+}
+
+.wrench {
+    width: 35%;
+    height: 250px;
+    background-color: #ffffff;
+    position: relative;
+    bottom: 13rem;
+    left: 17rem
+}
+
+.pwrench {
+    margin-top: 12px;
+    padding-left: 7px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 700px;
+}
+
+.footwrench {
+    width: 100%;
+    padding-left: 5px;
+    padding-top: 5px;
+    font-family: sans-serif;
+    color: #a2a2a2;
+}
+.custom{
+    width: 35%;
+    height: 250px;
+    background-color: #ffffff;
+    position: relative;
+    bottom: 28.5rem;
+    left: 60.2rem;
+}
+.pcustom{
+    margin-top: 12px;
+    padding-left: 7px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 700px;
+
+}
+.footp{
+    width: 100%;
+    padding-left: 5px;
+    padding-top: 5px;
+    font-family: sans-serif;
+    color: #a2a2a2;
+}
+#icontable{
+     color: gold;
 }
 
